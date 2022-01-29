@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @aniketsinha192
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there ! 👋
 
-<!---
-aniketsinha192/aniketsinha192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an undergraduate engineering student from Kolkata, India with an interest in technology, UI/UX designs, Graphic designs, financial markets, current affairs, and listening to podcasts. I am currently pursuing B.E. in Industrial and Production Engineering from Jadavpur University (2021-2025). ✨
+
+_________________________________________________________________________________________________________________________________________
+
