@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________________
 ## Web Dev Project #1 : Smart Dorm 
-#### (Smart Solution for Hostel Mabagement System)
+#### (Smart Solution for Hostel Management System)
 
 Project Website : https://aniketsinha192.github.io/smartdorm.github.io/
 
