@@ -1,20 +1,15 @@
-### Hi there ! 👋
-
+## Hi there ! 👋 
 I am an undergraduate engineering student from Kolkata, India with an interest in technology, UI/UX designs, Graphic designs, financial markets, current affairs, and listening to podcasts. I am currently pursuing B.E. in Industrial and Production Engineering from Jadavpur University (2021-2025). ✨
-
 _________________________________________________________________________________________________________________________________________
-
-### My GitHub Stats 
+## My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsinha192)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha192&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 _________________________________________________________________________________________________________________________________________
-
-# Web Dev Project #1 : Smart Dorm ( Smart Solution for Hostel Mabagement System)
+## Web Dev Project #1 : Smart Dorm 
+#### (Smart Solution for Hostel Mabagement System)
 
 Project Website : https://aniketsinha192.github.io/smartdorm.github.io/
 
