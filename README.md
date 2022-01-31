@@ -17,7 +17,7 @@ Project Github  :  https://github.com/aniketsinha192/smartdorm.github.io
 
 Project Details :  Website created using HTML, CSS,JS, swiper bundle framework and bootstrap
 
-Project Purpose :  Website for Hackthon ( Technophillia '22 ) which was hosted by Jadavpur University Science Club (JUSC) under Devfolio
+Project Purpose :  Participation in Hackthon ( Technophillia '22 ) which was hosted by Jadavpur University Science Club (JUSC) under Devfolio
 
 
 _________________________________________________________________________________________________________________________________________
