@@ -3,7 +3,7 @@ I am an undergraduate engineering student from Kolkata, India with an interest i
 _________________________________________________________________________________________________________________________________________
 ## My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsinha192)](https://github.com/anuraghazra/github-readme-stats)
+[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsinha192)](https://github.com/aniketsinha192/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha192&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
