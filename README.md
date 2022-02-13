@@ -1,5 +1,5 @@
 ## Hi there ! 👋 
-I am an undergraduate engineering student from Kolkata, India with an interest in technology, Data Sc., UI/UX designs, graphic designs, financial markets, current affairs, and listening to podcasts. I am currently pursuing B.E. in Industrial and Production Engineering from Jadavpur University (2021-2025). ✨
+I am an undergraduate engineering student from Kolkata, India with an interest in Technology, Data Sc., UI/UX designs, Graphic Design, Financial markets, Current affairs, and listening to Podcasts. I am currently pursuing B.E. in Industrial and Production Engineering from Jadavpur University (2021-2025). ✨
 _________________________________________________________________________________________________________________________________________
 ## My GitHub Stats
 
