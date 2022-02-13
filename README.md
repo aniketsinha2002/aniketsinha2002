@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 [![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsinha192)](https://github.com/aniketsinha192/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha192&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha192&langs_count=10)](https://github.com/aniketsinha192/github-readme-stats)
 
 _________________________________________________________________________________________________________________________________________
 ## Web Dev Project #1 : Smart Dorm 
