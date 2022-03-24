@@ -3,17 +3,17 @@ I am an undergraduate engineering student from Kolkata, India with an interest i
 _________________________________________________________________________________________________________________________________________
 ## My GitHub Stats
 
-[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsinha192)](https://github.com/aniketsinha192/github-readme-stats)
+[![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketsinha2002)](https://github.com/aniketsinha2002/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha192&langs_count=10)](https://github.com/aniketsinha192/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha2002&langs_count=10)](https://github.com/aniketsinha2002/github-readme-stats)
 
 _________________________________________________________________________________________________________________________________________
 ## Web Dev Project #1 : Smart Dorm 
 #### (Smart Solution for Hostel Management System)
 
-Project Website : https://aniketsinha192.github.io/smartdorm.github.io/
+Project Website : https://aniketsinha2002.github.io/smartdorm.github.io/
 
-Project Github  :  https://github.com/aniketsinha192/smartdorm.github.io
+Project Github  :  https://github.com/aniketsinha2002/smartdorm.github.io
 
 Project Details :  Website created using HTML, CSS,JS, swiper bundle framework and bootstrap
 
