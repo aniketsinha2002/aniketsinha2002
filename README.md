@@ -8,16 +8,18 @@ ________________________________________________________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha2002&langs_count=10)](https://github.com/aniketsinha2002/github-readme-stats)
 
 _________________________________________________________________________________________________________________________________________
-## Web Dev Project #1 : Smart Dorm 
-#### (Smart Solution for Hostel Management System)
+## Web Dev Project : Educational Website
+#### (Data Science)
 
-Project Website : https://aniketsinha2002.github.io/smartdorm.github.io/
+Project Website : https://aniketsinha2002.github.io/DataScienceWebsite.github.io/
 
-Project Github  :  https://github.com/aniketsinha2002/smartdorm.github.io
+Project Github  :  https://github.com/aniketsinha2002/DataScienceWebsite.github.io
 
-Project Details :  Website created using HTML, CSS,JS, swiper bundle framework and bootstrap
+Project Details :  Website created using HTML, CSS, JS, Swiper JS framework and Bootstrap in few segments
 
-Project Purpose :  Participation in Hackthon ( Technophillia '22 ) which was hosted by Jadavpur University Science Club (JUSC) under Devfolio
+Project Purpose :  For an Early Stage Startup
 
 
 _________________________________________________________________________________________________________________________________________
+
+
