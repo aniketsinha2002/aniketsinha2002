@@ -6,11 +6,7 @@ I am an undergraduate engineering student from Kolkata, India with an interest i
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aniketsinha2002?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/aniketsinha2002?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-<!-- <br/> -->
-
-## My GitHub Stats
-
-<div align="center">
+<br/>
   
 <p align="center">
   <a href="https://github.com/aniketsinha2002">
