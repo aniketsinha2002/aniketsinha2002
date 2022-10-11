@@ -1,16 +1,12 @@
 <p align="center"><a href="https://aniketsinha2002.github.io"><img width="80%" alt="Hello, I'm Aniket. I do open source!" src="./images/top-bg.png" /></a></p>
- 
 I am an undergraduate engineering student from Kolkata, India with an interest in Technology, UI/UX designs, Graphic Design, Current affairs, and listening to Podcasts. I am currently pursuing B.E. in Industrial and Production Engineering from Jadavpur University (2021-2025). ✨
-
-<br/>
-
+<br/> <br/>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aniketsinha2002&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsinha2002" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aniketsinha2002?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/aniketsinha2002?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
-
-<br/>
+<!-- <br/> -->
 
 ## My GitHub Stats
 
