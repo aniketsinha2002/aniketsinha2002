@@ -22,4 +22,13 @@ Project Purpose :  For an Early Stage Startup
 
 _________________________________________________________________________________________________________________________________________
 
+##  Buy Me A Coffee! ☕
+<a href="https://www.buymeacoffee.com/aniketsinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<br/>
+
+<p align="center"> © Aniket Sinha 2022, All rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+  https://www.linkedin.com/in/aniketsinha2002/
+</p>
 
