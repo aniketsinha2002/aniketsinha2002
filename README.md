@@ -8,6 +8,8 @@ I am an undergraduate engineering student from Kolkata, India with an interest i
 </p>
 <br/>
   
+_____________________________________________________________________________________________________________________________________
+
 <p align="center">
   <a href="https://github.com/aniketsinha2002">
     <img align="center" height="189px" src="https://github-readme-stats.vercel.app/api?username=aniketsinha2002&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -15,7 +17,7 @@ I am an undergraduate engineering student from Kolkata, India with an interest i
     </a>
 </p>
 
-<!-- _________________________________________________________________________________________________________________________________________ -->
+_________________________________________________________________________________________________________________________________________
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=aniketsinha2002&theme=react-dark&hide_border=true&area=true)
 
@@ -23,7 +25,8 @@ ________________________________________________________________________________
 
 ##  Buy Me A Coffee! ☕
 
-<a href="https://www.buymeacoffee.com/aniketsinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<p align="left">
+<a href="https://www.buymeacoffee.com/aniketsinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
 
 <br/>
 
