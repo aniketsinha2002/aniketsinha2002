@@ -1,4 +1,4 @@
- name: Latest blog post workflow
+ name: gitartwork from a contribution graph
  on: 
    push:
    schedule:
@@ -9,10 +9,10 @@
      runs-on: ubuntu-latest
      steps:
        - uses: actions/checkout@v3
-       - uses: aniketsinha2002/gitartwork@v1
+       - uses: jasineri/gitartwork@v1
          with:
             # Use this username's contribution graph  
             user_name: aniketsinha2002
             # Text on contribution graph 
             text: ANIKET
-       - uses: aniketsinha2002/simple-push-action@v1
+       - uses: jasineri/simple-push-action@v1
