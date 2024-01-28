@@ -1,48 +1,18 @@
-<p align="center"><a href="https://aniketsinha2002.github.io"><img width="80%" alt="Hello, I'm Aniket. I do open source!" src="./images/top-bg.png" /></a></p>
-I am an undergraduate engineering student from Kolkata, India with an interest in learning and exploring various technologies and listening to Podcasts. I am currently pursuing B.E. in Industrial and Production Engineering from Jadavpur University (2021-2025). ✨
-<br/>   <br/>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniketsinha2002&label=Profile%20views&color=0e75b6&style=flat" alt="aniketsinha2002" /> • 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/aniketsinha2002?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/aniketsinha2002?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
-<br/>
-  
-_____________________________________________________________________________________________________________________________________
+<h1 align="center">Hi 👋, I'm Aniket</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h4 align="center">Let's build, automate, and innovate together! 💻✨</h4>
 
-<p align="center">
-  <a href="https://github.com/aniketsinha2002">
-    <img align="center" height="189px" src="https://github-readme-stats.vercel.app/api?username=aniketsinha2002&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha2002&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-    </a>
-</p>
-_______________________________________________________________________________________________________________________________________________________
 
-<div align="center">
-<img src = "https://raw.githubusercontent.com/aniketsinha2002/aniketsinha2002/965e4e621cdef023cc8221048a9861f62073a2b1/gitartwork.svg"
-     
-_____________________________________________________________________________________________________________________________________________________
+| Domain                                        | Projects                                                                                          | Skills/Tools |
+|--------------------------                     |------------------------------                                                                     | ---------------
+| **Full-Stack Development**                        | ♦ [ChitChat](https://github.com/aniketsinha2002/ChitChat)                                     | ♦ ReactJS, NodeJS, Express, Socket.IO, Postman, MongoDB 
+| **Frontend Development**                          | ♦ [HungryHub](https://github.com/aniketsinha2002/HungryHub) <br> ♦ [Thala for a reason](https://github.com/aniketsinha2002/Thala-For-A-Reason)  <br> ♦ [Data Geek](https://github.com/aniketsinha2002/DataGeek)   <br> ♦ [Smart Dorm](https://github.com/aniketsinha2002/smartdorm.github.io) |  ♦ React, Redux-Toolkit, Swiggy’s APIs, Parcel, Babel, Tailwind  <br> ♦ React, JavaScript, API <br> ♦ HTML, CSS, Bootstrap, JS <br> ♦ HTML, CSS, JS
+| **Backend + Database**                            | ♦ [Working Reg Form](https://github.com/aniketsinha2002/Working-Registration-Form)  | ♦ PHP, MySQL, XAMPP server
+| **DataAnalysis**                                  | ♦ [Done Data Analysis on CENSUS 11 dataset](https://github.com/aniketsinha2002/SQL_Data_Analysis_CENSUS2011)    | ♦ SQL 
+| Problem Solving                                   | ♦ [Leetcode](https://leetcode.com/aniketsinha2002/)  <br> ♦ [GFG](https://auth.geeksforgeeks.org/user/decodersinha)                                                                                  | ♦ C/C++
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=aniketsinha2002&theme=react-dark&hide_border=true&area=true)
-<!-- 
-_________________________________________________________________________________________________________________________________________
-##  Orgs. in which I've contributed in - ( that got accepted ) :)
 
-1) [FreeCodeCamp](https://www.freecodecamp.org/)
-2) [CodeIN Community](https://codeincommunity.tech/)
-3) [Paryatana](https://arun9739.github.io/Paryatana/)
-4) ... -->
-
-__________________________________________________________________________________________________________________________________________
-<!-- ##  Buy Me A Coffee! ☕ -->
-
-<p align="centre">
-<a href="https://www.buymeacoffee.com/aniketsinha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
-
-<br/>
-
-<p align="center"> © Aniket Sinha 2022, All rights reserved. Made with ❤️ for a better web. </p>
-<p align="center">
-  https://www.linkedin.com/in/aniketsinha2002/
-</p>
-
+<h3 align="left">
+Sharing my Journey on :
+&nbsp;&nbsp;<a href="https://twitter.com/Aniket_16May" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@truptimane9" height="30" width="40" /></a>
+</h3>
