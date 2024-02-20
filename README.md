@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋</h1>
-<h3 align="center">A passionate Full Stack Developer from India, and I love building things</h3>
+<h3 align="center">A passionate Full Stack Developer from India, who loves building things from scratch.</h3>
 <h4 align="center">Let's build, automate, and innovate together! 💻✨</h4>
 
 
