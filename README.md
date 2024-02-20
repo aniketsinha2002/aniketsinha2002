@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aniket</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">A passionate Full Stack Developer from India, and I love building things</h3>
 <h4 align="center">Let's build, automate, and innovate together! 💻✨</h4>
 
 
