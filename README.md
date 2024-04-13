@@ -1,6 +1,14 @@
 <h1 align="center">Hi there👋</h1>
-<h2 align="center">I just wanna make products that people love 💖💻✨ </h2>
 
+
+- I enjoy trying out new technologies and frameworks 💡
+- I'm passionate about making user experiences smooth and enjoyable 🌟
+- I'm always eager to learn and improve as a developer 📚
+- I love working with others on exciting projects and coming up with new ideas 🚀
+- I'm committed to writing code and solutions that are reliable and top-notch 💻
+- I'm fascinated by how technology and creativity come together 🎨
+
+# <p align="center">I just wanna make products that people love 💖💻✨ </p>
 
 | Domain                                        | Projects                                                                                              | Skills/Tools |
 |--------------------------                     |-------------------------------------------------------                                                | ---------------
