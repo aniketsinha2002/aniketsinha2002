@@ -31,7 +31,8 @@ Sharing my Journey on :
 </h3>
 
 
-![image](https://github.com/user-attachments/assets/6518d417-d032-4f03-9f1f-c9d17d65a956)
+![image](https://github.com/user-attachments/assets/22569efb-d7f2-459a-a1a2-fc4a7d1868cf)
+
 
 
 
