@@ -26,9 +26,16 @@ Sharing my Journey on :
 &nbsp;&nbsp;<a href="https://twitter.com/Aniket_16May" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@truptimane9" height="30" width="40" /></a>
 
 <h3 align="left">
-My Latest Project :
-&nbsp;&nbsp; <a href="https://github.com/aniketsinha2002/Shoppie" /></a>
-![image](https://github.com/user-attachments/assets/9741201f-b252-4af9-883f-1f54eb5eed6d)
+    My Latest Project:
+    &nbsp;&nbsp;<a href="https://github.com/aniketsinha2002/Shoppie">Shoppie</a>
+</h3>
+
+
+![image](https://github.com/user-attachments/assets/6518d417-d032-4f03-9f1f-c9d17d65a956)
+
+
+
+
 
 
 
