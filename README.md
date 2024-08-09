@@ -17,24 +17,14 @@
 | **OOPs**                                | ♦ [OOPs Repo](https://github.com/aniketsinha2002/OOPs)                | ♦ C++
 
 
-<br><br>
-
-
-
 # 🚀 Current Project: &nbsp;&nbsp;<a href="https://github.com/aniketsinha2002/Shoppie">Shoppie</a>
 
-
-<br>
 
 ![image](https://github.com/user-attachments/assets/0d3141d1-ea61-4a4e-a826-f26d3d4099cb)
 
 
-<br><br>
-
 # 👨‍💻LEETCODE :
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aniketsinha2002?theme=nord&font=Livvic)
-
-<br><br>
 
 
 # 📊 GitHub Stats:
