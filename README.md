@@ -1,14 +1,10 @@
-<h1 align="center">Hi there👋</h1>
+# 💫 About Me:
+- 🎨 A Self-taught developer passionate about crafting smooth, creative user experiences
+- 📚 Always learning and improving
+- 🐇 Ask me about Full Stack Development, Data Structures, or Video Games
 
 
-- I enjoy trying out new technologies and frameworks 💡
-- I'm passionate about making user experiences smooth and enjoyable 🌟
-- I'm always eager to learn and improve as a developer 📚
-- I love working with others on exciting projects and coming up with new ideas 🚀
-- I'm committed to writing code and solutions that are reliable and top-notch 💻
-- I'm fascinated by how technology and creativity come together 🎨
-
-# <p align="center">I just wanna make products that people love 💖💻✨ </p>
+# 💻 I just wanna make products that people love 💖✨
 
 | Domain                                        | Projects                                                                                               | Skills/Tools |
 |--------------------------                     |-------------------------------------------------------                                                 | ---------------
@@ -21,20 +17,30 @@
 | **OOPs**                                | ♦ [OOPs Repo](https://github.com/aniketsinha2002/OOPs)                | ♦ C++
 
 
-<h3 align="left">
-Sharing my Journey on :
-&nbsp;&nbsp;<a href="https://twitter.com/Aniket_16May" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@truptimane9" height="30" width="40" /></a>
-
-<h3 align="left">
-    My Latest Project:
-    &nbsp;&nbsp;<a href="https://github.com/aniketsinha2002/Shoppie">Shoppie</a>
-</h3>
-
-
-![image](https://github.com/user-attachments/assets/22569efb-d7f2-459a-a1a2-fc4a7d1868cf)
+<br><br>
 
 
 
+# 🚀 Current Project: &nbsp;&nbsp;<a href="https://github.com/aniketsinha2002/Shoppie">Shoppie</a>
+
+
+<br>
+
+![image](https://github.com/user-attachments/assets/0d3141d1-ea61-4a4e-a826-f26d3d4099cb)
+
+
+<br><br>
+
+# 👨‍💻LEETCODE :
+![LeetCode Stats](https://leetcard.jacoblin.cool/aniketsinha2002?theme=nord&font=Livvic)
+
+<br><br>
+
+
+# 📊 GitHub Stats:
+<img alt="jamal108's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha2002&hide=jupyter%20notebook,html&theme=react&langs_count=16&layout=compact" /><br>
+![](https://github-readme-stats.vercel.app/api?username=aniketsinha2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aniketsinha2002&theme=dark&hide_border=false)<br/>
 
 
 
