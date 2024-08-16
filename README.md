@@ -1,10 +1,19 @@
-# 💫 About Me:
-- 🎨 A Self-taught developer passionate about crafting smooth, creative user experiences
-- 📚 Always learning and improving
-- 🐇 Ask me about Full Stack Development, Data Structures, or Video Games
+# 💻 I Make Products That People Love 💖✨
+
+## 🌟 Hello, World! I'm Aniket.
+
+🏠 I'm an **aspiring Product maker**—a blend of a **UI/UX designer** and a **Front-end developer**—currently based in Kolkata, India. 
+
+✨ I'm passionate about **Building Products** that help people and make a difference in the world.
+
+🚀 I'm also a big fan of **Open Source Software**, which is why almost everything I build is **Open Source**!
+
+✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.  
 
 
-# 💻 I just wanna make products that people love 💖✨
+
+
+
 
 | Domain                                        | Projects                                                                                               | Skills/Tools |
 |--------------------------                     |-------------------------------------------------------                                                 | ---------------
