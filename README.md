@@ -6,7 +6,7 @@
 
 ✨ I'm passionate about **Building Products** that help people and make a difference in the world.
 
-🚀 I'm also a big fan of **Open Source Software**, which is why almost everything I build is **Open Source**!
+🚀 I'm also a big fan of **Open Source Softwares**, which is why almost everything I build is **Open Source**!
 
 ✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.  
 
