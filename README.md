@@ -2,7 +2,9 @@
 
 ## 🌟 Hello, World! I'm Aniket.
 
-🏠 I'm an **aspiring Product Maker**—a blend of a **UI/UX Designer** and a **Front-end Developer**—currently based in **Kolkata, India**.
+🏠 I'm an **aspiring Product Maker**—a passionate **front-end web developer** with a blend of user-friendly **UI/UX design** skills. 
+
+🎨 I focus on creating web apps that are **fast**  and **accessible**  to everyone, with interfaces that look clean and visually appealing on any screen size.
 
 ✨ I'm passionate about **Building Products** that help people and make a difference in the world.
 
