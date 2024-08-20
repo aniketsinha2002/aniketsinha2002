@@ -58,7 +58,7 @@
   _Tech: PHP, MySQL, XAMPP Server_
 
 ### 📊 **Data Analysis**
-- **[Data Analysis](https://github.com/aniketsinha2002/SQL_Data_Analysis_CENSUS2011)**  
+- **[Analysis of CENSUS 2011](https://github.com/aniketsinha2002/SQL_Data_Analysis_CENSUS2011)**  
   _Tech: SQL_
 
 ### 🧠 **DSA (Data Structures & Algorithms)**
