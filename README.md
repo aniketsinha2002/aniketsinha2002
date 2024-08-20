@@ -4,7 +4,7 @@
 
 🏠 I'm an **aspiring Product Maker**—a passionate **front-end web developer** with a blend of user-friendly **UI/UX design** skills. 
 
-🎨 I focus on creating web apps that are **fast**  and **accessible**  to everyone, with clean and visually appealing interfaces on any screen size.
+🎨 I focus on creating web apps that are **fast** and **accessible** to everyone, with clean and visually appealing interfaces on any screen size.
 
 ✨ I'm passionate about **Building Products** that help people and make a difference in the world.
 
