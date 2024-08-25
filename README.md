@@ -38,6 +38,8 @@
   _Tech: React, NodeJS, ExpressJS, MongoDB, JWT, Zod, REST APIs, Tailwind_
 
 ### 🖥️ **Frontend Development**
+- **[Dashboard](https://github.com/aniketsinha2002/Dashboard-Writix-AI)** 📊
+  _Tech: React, Tailwind_
 - **[Shoppie](https://github.com/aniketsinha2002/Shoppie)** 🛍️  
   _Tech: REDUX-TOOLKIT, React, React-Bootstrap, Tailwind_
 - **[HungryHub](https://github.com/aniketsinha2002/HungryHub)** 🍔  
