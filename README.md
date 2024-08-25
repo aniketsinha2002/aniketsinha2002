@@ -12,19 +12,6 @@
 
 ✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
 
----
-
-## 🚀 **Current Project**
-
-<a href="https://github.com/aniketsinha2002/shoppie" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Project-Shoppie-blue?style=for-the-badge&logo=github" alt="Shoppie Project">
-</a>
-<a href="https://shoppiev2.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Live_Demo-Here-green?style=for-the-badge&logo=browser" alt="Live Demo">
-</a>
-
----
-
 ## 🛠️ **Projects**
 
 ### 🎨 **Freelance Work**
@@ -39,9 +26,9 @@
 
 
 ### 🖥️ **Frontend Development**
-- **[Dashboard](https://github.com/aniketsinha2002/Dashboard-Writix-AI)** 📊  
+- **[Dashboard](https://github.com/aniketsinha2002/Dashboard-Writix-AI)** 📊  ( **CURRENT PROJECT** )   
   _Tech: React, Tailwind_
-- **[Shoppie](https://github.com/aniketsinha2002/Shoppie)** 🛍️  
+- **[Shoppie](https://github.com/aniketsinha2002/Shoppie)** 🛍️  ( **CURRENT PROJECT** )    
   _Tech: Redux Toolkit, React, React-Bootstrap, Tailwind_
 - **[HungryHub](https://github.com/aniketsinha2002/HungryHub)** 🍔  
   _Tech: React, Redux, Swiggy’s APIs, Parcel, Babel, Tailwind_
