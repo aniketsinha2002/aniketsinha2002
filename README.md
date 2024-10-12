@@ -26,7 +26,7 @@
 
 
 ### 🖥️ **Frontend Development**
-- **[Dashboard](https://github.com/aniketsinha2002/Dashboard-Writix-AI)** 📊  ( **CURRENT PROJECT** )   
+- **[UI Dashboard](https://github.com/aniketsinha2002/Dashboard-Writix-AI)** 📊  ( **CURRENT PROJECT** )   
   _Tech: React, Tailwind_
 - **[Shoppie](https://github.com/aniketsinha2002/Shoppie)** 🛍️  ( **CURRENT PROJECT** )    
   _Tech: Redux Toolkit, React, React-Bootstrap, Tailwind_
