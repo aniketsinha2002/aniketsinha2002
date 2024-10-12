@@ -2,13 +2,13 @@
 
 ## 🌟 Hello, World! I'm Aniket.
 
-🏠 I'm an **aspiring Product Maker**—a passionate **front-end web developer** with a blend of user-friendly **UI/UX design** skills. 
+🏠 I'm an **aspiring Product Maker**—a passionate **front-end web developer** with a blend of **UI/UX design** skills. 
 
-🎨 I focus on creating webapps that are **fast** & **accessible** to everyone, with clean and visually appealing interfaces on any screen size.
+🎨 I focus on creating webapps that are **fast** & **accessible** to everyone, with clean and **visually appealing interfaces** on any screen size.
 
 ✨ I'm passionate about **Building Products** that help people and make a difference in the world.
 
-🚀 I'm also a big fan of **Open Source Software**, which is why almost everything I build is **Open Source**!
+🚀 I'm also a big fan of **Open Source Softwares**, which is why almost everything I build is **Open Source**!
 
 ✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
 
