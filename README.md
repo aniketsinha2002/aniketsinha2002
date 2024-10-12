@@ -40,11 +40,8 @@
   _Tech: HTML, CSS, Bootstrap, JavaScript_
 - **[Smart Dorm](https://github.com/aniketsinha2002/smartdorm.github.io)**  
   _Tech: HTML, CSS, JavaScript_
-- **[JS & API Practices (SMALL PROJECTS](https://github.com/aniketsinha2002/Javascript-and-API-practices)** 🐛  
+- **[JS & API Practices (SMALL PROJECTS) ](https://github.com/aniketsinha2002/Javascript-and-API-practices)** 🐛  
   _Tech: JavaScript, React_
-
-
-### ⚙️ **Backend + DB**
 - **[Working Reg Form](https://github.com/aniketsinha2002/Working-Registration-Form)**  
   _Tech: PHP, MySQL, XAMPP Server_
 
