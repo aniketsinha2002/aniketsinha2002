@@ -67,7 +67,13 @@
 </div>
 
 ---
+## 📊 **GitHub Stats**
 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha2002&hide=jupyter%20notebook,html&theme=react&langs_count=16&layout=compact" style="height: 200px; width: auto;" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aniketsinha2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="height: 200px; width: auto;" />
+  <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinha2002&theme=dark&hide_border=false" style="height: 200px; width: auto;" />
+</div>
 
 
 
