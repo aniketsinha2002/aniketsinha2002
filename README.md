@@ -26,9 +26,9 @@
 
 
 ### 🖥️ **Frontend Development**
-- **[UI Dashboard](https://github.com/aniketsinha2002/Dashboard-Writix-AI)** 📊  ( **CURRENT PROJECT** )   
+- **[UI Dashboard](https://github.com/aniketsinha2002/Dashboard-Writix-AI)** 📊 
   _Tech: React, Tailwind_
-- **[Shoppie](https://github.com/aniketsinha2002/Shoppie)** 🛍️  ( **CURRENT PROJECT** )    
+- **[Shoppie](https://github.com/aniketsinha2002/Shoppie)** 🛍️  
   _Tech: Redux Toolkit, React, React-Bootstrap, Tailwind_
 - **[HungryHub](https://github.com/aniketsinha2002/HungryHub)** 🍔  
   _Tech: React, Redux, Swiggy’s APIs, Parcel, Babel, Tailwind_
