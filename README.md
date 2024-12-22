@@ -2,7 +2,7 @@
 
 ## 🌟 Hello, World! I'm Aniket.
 
-🏠 I'm an **aspiring Product Maker**—a passionate **Front-end Web Developer** with a blend of **UI/UX Design** skills. 
+🏠 I'm an **aspiring Product Maker**—a passionate **Front-end Web Developer** with a blend of **Wireframe Design** skills. 
 
 🎨 I focus on creating webapps that are **Fast** & **Accessible**, with clean & **Visually Appealing Interfaces** on any screen size.
 
@@ -11,6 +11,9 @@
 🚀 I'm also a big fan of **Open Source Softwares**, which is why almost everything I build is **Open Source**!
 
 ✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
+
+## 🚀 **Skills / Interests**
+  C/C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Redux, Tailwind, BootStrap, SQL, Firebase, MongoDB, Git, Postman, Web Performance (Lighthouse), OOPs, DBMS, DSA
 
 ## 🛠️ **Projects**
 
