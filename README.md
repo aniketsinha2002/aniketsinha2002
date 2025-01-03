@@ -2,7 +2,7 @@
 
 ## 🌟 Hello, World! I'm Aniket.
 
-🏠 I'm an **aspiring Product Maker**—a passionate **Front-end Web Developer** with a blend of **Wireframe Design** skills. 
+🏠 I'm an **aspiring Product Maker**—a passionate **Full Stack Developer** with expertise in user-friendly UI/UX design and backend technologies. Also, **Hands-on** in Marketing, and Design, with a knack for turning ideas into impactful solutions.
 
 🎨 I focus on creating webapps that are **Fast** & **Accessible**, with clean & **Visually Appealing Interfaces** on any screen size.
 
