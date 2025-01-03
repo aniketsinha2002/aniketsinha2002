@@ -13,7 +13,7 @@
 ✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
 
 ## 🚀 **Skills / Interests**
-  C/C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Redux, Tailwind, BootStrap, SQL, Firebase, MongoDB, Git, Postman, Web Performance (Lighthouse), OOPs, DBMS, DSA
+  C/C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Redux, Tailwind, BootStrap, SQL, Firebase, MongoDB, Git, Python, FastAP, Postman, Web Performance (Lighthouse), OOPs, DBMS, DSA
 
 ## 🛠️ **Projects**
 
