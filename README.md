@@ -15,7 +15,7 @@
 ## 💡 **Skills / Interests**
   C/C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Redux, Tailwind, BootStrap, Shadcn UI, Framer motion, SQL, Firebase, MongoDB, Git, Gemini AI, API integrations, Python, FastAPI, Postman, Web Performance (Lighthouse)
 
-## 🚀 Currect Project: Building Prospectra AI  
+## 🚀 Currect Project: Building Prospectra AI🔎 
 [Prospectra AI](https://prospectraai.com/) is your one-stop AI-powered solution for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**.  
 
 In under **10 minutes**, we deliver a comprehensive PDF report packed with actionable insights, empowering your **product validation** and **lead generation** efforts.  
