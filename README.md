@@ -12,10 +12,28 @@
 
 ✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
 
-## 🚀 **Skills / Interests**
-  C/C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Redux, Tailwind, BootStrap, SQL, Firebase, MongoDB, Git, Python, FastAP, Postman, Web Performance (Lighthouse), OOPs, DBMS, DSA
+## 💡 **Skills / Interests**
+  C/C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Redux, Tailwind, BootStrap, Shadcn UI, Framer motion, SQL, Firebase, MongoDB, Git, Gemini AI, API integrations, Python, FastAPI, Postman, Web Performance (Lighthouse)
 
-## 🛠️ **Projects**
+## 🚀 Currect Project: Building Prospectra AI  
+[Prospectra AI](https://prospectraai.com/) is your one-stop AI-powered solution for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**.  
+
+In under **10 minutes**, we deliver a comprehensive PDF report packed with actionable insights, empowering your **product validation** and **lead generation** efforts.  
+
+### 🌟 Features  
+- 📈 **Top Engaging Posts**: Discover content that drives the most interactions.  
+- 📊 **Real-Time Performance Metrics**: Monitor key engagement indicators.  
+- 🔗 **Trending Links & Sentiments**: Analyze positive and negative trends.  
+- 📇 **Direct Contacts**: Access information about engaged individuals for outreach.  
+
+### 💡 Why Prospectra AI?  
+Skip the manual grind—Prospectra AI saves you time, accelerates decision-making, and empowers your strategies with **AI-driven insights**.  
+
+👉 Join our Waitlist today! [Prospectra AI](https://prospectraai.com/) 
+
+**Affordable. Fast. Effortless.**
+
+## 🛠️ **Past Projects**
 
 ### 🎨 **Freelance Work**
 - **[CodeBlock](https://github.com/aniketsinha2002/codeblock)** 📱  
