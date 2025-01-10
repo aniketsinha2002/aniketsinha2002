@@ -2,7 +2,7 @@
 
 ## 🌟 Hello, World! I'm Aniket.
 
-🏠 I'm an **aspiring Product Maker**—a passionate **Full Stack Dev** with expertise in user-friendly UI/UX design & **hands-on** experiences in Marketing, and Design.
+🏠 I'm an **aspiring Product Maker**—a passionate **Full Stack Dev** with expertise in crafting user-friendly UI/UX designs, coupled with **hands-on** experience in Marketing and Design, showcasing a knack for turning ideas into impactful solutions.
 
 🎨 I focus on creating webapps that are **Fast** & **Accessible**, with clean & **Visually Appealing Interfaces** on any screen size.
 
