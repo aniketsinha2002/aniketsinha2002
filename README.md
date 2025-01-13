@@ -17,7 +17,7 @@
   C/C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Redux, Tailwind, BootStrap, Shadcn UI, Framer motion, SQL, Firebase, MongoDB, Git, Gemini AI, API integrations, Python, FastAPI, Postman, Web Performance (Lighthouse)
 
 ---
-## 🚀 **Currect Project: Building Prospectra AI** 🔎 
+## 🚀 **Currect Project: Building [Prospectra AI](https://github.com/Prospectra-Ai)** 🔎 
 [Prospectra AI](https://prospectraai.com/) is your one-stop **AI-powered solution** for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**.  
 
 💡 **Why Prospectra AI?**  
