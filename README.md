@@ -13,21 +13,19 @@
 ✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
 
 ---
-## 💡 **Skills / Interests**
+## 💡 **Skills**
   C/C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Redux, Tailwind, BootStrap, Shadcn UI, Framer motion, SQL, Firebase, MongoDB, Git, Gemini AI, API integrations, Python, FastAPI, Postman, Web Performance (Lighthouse)
 
 ---
-## 🚀 Currect Project: Building Prospectra AI🔎 
-[Prospectra AI](https://prospectraai.com/) is your one-stop AI-powered solution for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**.  
+## 🚀 **Currect Project: Building Prospectra AI** 🔎 
+[Prospectra AI](https://prospectraai.com/) is your one-stop **AI-powered solution** for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**.  
 
-Designed to save time, reduce manual research, and provide actionable insights, Prospectra AI empowers businesses and individuals to make data-driven decisions with ease.  
+💡 **Why Prospectra AI?**  
+- **Save Time**: Skip manual research.  
+- **Actionable Insights**: Make smarter, data-driven decisions.  
+- **AI-Powered Analytics**: Empower your strategies effortlessly.  
 
-### 💡 Why Prospectra AI?  
-Skip the manual grind—Prospectra AI saves you time, accelerates decision-making, and empowers your strategies with **AI-driven insights**.  
-
-👉 Join our Waitlist today! [Prospectra AI](https://prospectraai.com/) 
-
-**Affordable. Fast. Effortless.**
+👉 **[Join Our Waitlist](https://prospectraai.com/)** 
 
 ---
 ## 🛠️ **Past Projects**
