@@ -23,7 +23,9 @@
 💡 **Why Prospectra AI?**  
 - **Save Time**: Skip manual research.  
 - **Actionable Insights**: Make smarter, data-driven decisions.  
-- **AI-Powered Analytics**: Empower your strategies effortlessly.  
+- **AI-Powered Analytics**: Empower your strategies effortlessly.
+
+🖥️ **[Check DEMO Video](https://www.youtube.com/watch?v=feAzUTxIdrQ)** 
 
 👉 **[Join Our Waitlist](https://prospectraai.com/)** 
 
