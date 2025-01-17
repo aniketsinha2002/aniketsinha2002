@@ -1,6 +1,10 @@
-# 💻 I Make Products That People Love 💖✨
+# 💻 I Enjoy Making Products That People Love 💖✨
 
 ## 🌟 Hello, World! I'm Aniket.
+
+<p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketsinha2002" alt="visitors"/>   
+</p>
 
 🏠 I'm an **aspiring Product Maker**—a passionate **Full Stack Dev** with expertise in crafting user-friendly UI designs, coupled with **hands-on** experience in Marketing, with a knack for turning ideas into impactful solutions.
 
@@ -12,25 +16,46 @@
 
 ✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
 
----
-## 💡 **Skills**
-  C/C++, Java, HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, Redux, Tailwind, BootStrap, Shadcn UI, Framer motion, SQL, Firebase, MongoDB, Git, Gemini AI, API integrations, Python, FastAPI, Postman, Web Performance (Lighthouse)
 
 ---
-## 🚀 **Currect Project: Building [Prospectra AI](https://github.com/Prospectra-Ai)** 🔎 
-[Prospectra AI](https://prospectraai.com/) is your one-stop **AI-powered solution** for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**.  
 
-💡 **Why Prospectra AI?**  
-- **Save Time**: Skip manual research.  
-- **Actionable Insights**: Make smarter, data-driven decisions.  
-- **AI-Powered Analytics**: Empower your strategies effortlessly.
+## **BUILDING Prospectra AI** 🔎 
+[Prospectra AI](https://prospectraai.com/) is your one-stop **AI-powered solution** for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**. 🚀
+<br/>
+<br/>
+**[Join Waitlist for Early Access](https://prospectraai.com/)** 🎉
 
-🖥️ **[Check DEMO Video](https://www.youtube.com/watch?v=BpACoIF7XDY)** 
-
-👉 **[Join Our Waitlist](https://prospectraai.com/)** 
+https://github.com/user-attachments/assets/77c50451-78cf-4eb8-a01a-71fcfb8d80f8
 
 ---
-## 🛠️ **Past Projects**
+
+<!--   stats + languages -->
+## ✨ STATS:
+
+<div align="center" style="display: flex; flex-row: wrap; justify-content: center; gap: 10px;">
+   <img src="https://leetcard.jacoblin.cool/aniketsinha2002?theme=nord&font=Livvic" alt="LeetCode Stats">
+   <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinha2002&theme=dark&hide_border=false" style="height: 200px; width: auto;" />
+</div>
+
+
+| .                                                                                                                                                 | .                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| ![idimetrix's github stats](https://github-readme-stats.vercel.app/api?username=aniketsinha2002&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha2002&theme=radical&layout=compact) | 
+
+---
+
+## 📧 YOU CAN CONNECT WITH ME ON:
+
+<a href="mailto:sinhaaniket192@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/aniket_16may)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketsinha2002/)
+[![Instagram](https://img.shields.io/badge/Instagram-cb387d?style=for-the-badge&logo=next.js&logoColor=white)](https://www.instagram.com/_.__aniket___/)
+
+_I am open to new opportunities/contributions._
+
+---
+
+## 🛠️ **PAST PROJECTS**
 
 ### 🎨 **Freelance Work**
 - **[CodeBlock](https://github.com/aniketsinha2002/codeblock)** 📱  
@@ -77,31 +102,4 @@
 - **[OOPs Repo](https://github.com/aniketsinha2002/OOPs)**  
   _Tech: C++_
 
----
 
-## 🏆 **LeetCode Stats**
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/aniketsinha2002?theme=nord&font=Livvic" alt="LeetCode Stats">
-</div>
-
----
-## 📊 **GitHub Stats**
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha2002&hide=jupyter%20notebook,html&theme=react&langs_count=16&layout=compact" style="height: 200px; width: auto;" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aniketsinha2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false" style="height: 200px; width: auto;" />
-  <img alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinha2002&theme=dark&hide_border=false" style="height: 200px; width: auto;" />
-</div>
-
-
-
-
----
-
-## 🌐 **Connect with Me**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aniketsinha2002/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-AniketSinha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</div>
