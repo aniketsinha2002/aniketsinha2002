@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/77c50451-78cf-4eb8-a01a-71fcfb8d80f8
 ---
 
 <!--   stats + languages -->
-## ✨ STATS:
+## ✨ STATS :
 
 | .                                                                                                                                                 | .                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/77c50451-78cf-4eb8-a01a-71fcfb8d80f8
 
 ---
 
-## 📧 YOU CAN CONNECT WITH ME ON:
+## 📧 YOU CAN CONNECT WITH ME ON :
 
 <a href="mailto:sinhaaniket192@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/aniket_16may)
@@ -54,7 +54,7 @@ _I am open to new opportunities/contributions._
 
 ---
 
-## 🛠️ **PAST PROJECTS**
+## 🛠️ **PAST PROJECTS :**
 
 ### 🎨 **Freelance Work**
 - **[CodeBlock](https://github.com/aniketsinha2002/codeblock)** 📱  
