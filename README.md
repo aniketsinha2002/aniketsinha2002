@@ -25,7 +25,7 @@
 - **Actionable Insights**: Make smarter, data-driven decisions.  
 - **AI-Powered Analytics**: Empower your strategies effortlessly.
 
-🖥️ **[Check DEMO Video](https://www.youtube.com/watch?v=feAzUTxIdrQ)** 
+🖥️ **[Check DEMO Video](https://www.youtube.com/watch?v=BpACoIF7XDY)** 
 
 👉 **[Join Our Waitlist](https://prospectraai.com/)** 
 
