@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/77c50451-78cf-4eb8-a01a-71fcfb8d80f8
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 10px;">
    <img src="https://leetcard.jacoblin.cool/aniketsinha2002?theme=nord&font=Livvic" alt="LeetCode Stats" style="height: 150px; width: 350px;">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinha2002&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="height: 150px; width: 350px;">
+<!--    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsinha2002&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="height: 150px; width: 350px;"> -->
 </div>
 
 ---
