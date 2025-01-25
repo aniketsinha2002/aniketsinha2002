@@ -18,19 +18,6 @@
 
 
 ---
-
-## **BUILDING Prospectra AI** 🔎 
-
-[Prospectra AI](https://prospectraai.com/) is your one-stop **AI-powered solution** for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**. 🚀
-
-![image](https://github.com/user-attachments/assets/f817474e-b3ee-4d84-95dd-56f2dfbffc0e)
-
-
-**[Join Waitlist for Early Access](https://prospectraai.com/)** 🎉
-
-https://github.com/user-attachments/assets/77c50451-78cf-4eb8-a01a-71fcfb8d80f8
-
----
 ## 🚀 SaaS Launched :
 
 1. [SubViz - on Product Hunt](https://subviz.prospectraai.com/)  
@@ -43,6 +30,19 @@ https://github.com/user-attachments/assets/77c50451-78cf-4eb8-a01a-71fcfb8d80f8
    </a>
 
 2. Comming Soon ...
+
+---
+
+## **BUILDING Prospectra AI** 🔎 
+
+[Prospectra AI](https://prospectraai.com/) is your one-stop **AI-powered solution** for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**. 🚀
+
+![image](https://github.com/user-attachments/assets/f817474e-b3ee-4d84-95dd-56f2dfbffc0e)
+
+
+**[Join Waitlist for Early Access](https://prospectraai.com/)** 🎉
+
+https://github.com/user-attachments/assets/77c50451-78cf-4eb8-a01a-71fcfb8d80f8
 
 ---
 <!--   stats + languages -->
