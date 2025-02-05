@@ -44,8 +44,6 @@
 
 https://github.com/user-attachments/assets/77c50451-78cf-4eb8-a01a-71fcfb8d80f8
 
-![Auth Wireframe](https://github.com/user-attachments/assets/ed5074f9-d5cc-4019-91a6-a27c6ff07c51)
-
 ---
 <!--   stats + languages -->
 ## ✨ STATS :
