@@ -60,7 +60,6 @@
 <a href="mailto:sinhaaniket192@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/aniket_16may)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketsinha2002/)
-[![Instagram](https://img.shields.io/badge/Instagram-cb387d?style=for-the-badge&logo=next.js&logoColor=white)](https://www.instagram.com/_.__aniket___/)
 
 💭 _I am open to new opportunities/contributions._
 
