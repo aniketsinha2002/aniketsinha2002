@@ -1,3 +1,5 @@
+[![An image of @aniket2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aniket2002)](https://holopin.io/@aniket2002)
+
 # 💻 I Enjoy Making Products That People Love 💖✨
 
 ## 🌟 Hello, World! I'm Aniket.
@@ -14,11 +16,11 @@
 
 🚀 I'm also a big fan of **Open Source Softwares**, which is why almost everything I build is **Open Source**!
 
-✍️ I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
+🌱 I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
 
 
 ---
-## 🚀 SaaS Launched :
+## ⭐ SaaS Launched :
 
 1. [SubViz - on Product Hunt](https://subviz.prospectraai.com/)  
    *(Optional link, in case the previous one doesn't work: [https://subviz.netlify.app](https://subviz.netlify.app))*  
