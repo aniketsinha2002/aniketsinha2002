@@ -10,17 +10,14 @@
 
 🏠 I'm an **aspiring Product Maker**—a passionate **Full Stack Dev** with expertise in crafting user-friendly UI designs, coupled with **hands-on** experience in Marketing, with a knack for turning ideas into impactful solutions.
 
-🎨 I focus on creating webapps that are **Fast** & **Accessible**, with clean & **Visually Appealing Interfaces** on any screen size.
+🎨 I craft **Fast**, **Accessible**, and **Visually appealing** web apps for all screens.
 
-✨ I'm passionate about **Building Products** that help people and make a difference in the world.
+🌱 Passionate about **building impactful products** & sharing knowledge through [blogs](https://aniketsinha.hashnode.dev/).
 
-🚀 I'm also a big fan of **Open Source Softwares**, which is why almost everything I build is **Open Source**!
-
-🌱 I love educating others about **Technology and Programming**, which is why I write [blogs](https://aniketsinha.hashnode.dev/) in my free time.
-
+🚀 A big fan of **Open Source Softwares**, which is why almost everything I build is **Open Source**!
 
 ---
-## ⭐ SaaS Launched :
+## ⭐ Indie Hacking - Side Projects Launched
 
 1. [SubViz - on Product Hunt](https://subviz.prospectraai.com/)  
    *(Optional link, in case the previous one doesn't work: [https://subviz.netlify.app](https://subviz.netlify.app))*  
@@ -65,7 +62,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniketsinha2002/)
 [![Instagram](https://img.shields.io/badge/Instagram-cb387d?style=for-the-badge&logo=next.js&logoColor=white)](https://www.instagram.com/_.__aniket___/)
 
-_I am open to new opportunities/contributions._
+💭 _I am open to new opportunities/contributions._
 
 ---
 
