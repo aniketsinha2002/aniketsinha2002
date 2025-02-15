@@ -36,8 +36,7 @@
 
 [Prospectra AI](http://beta.prospectraai.com/) is your one-stop **AI-powered solution** for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**. 🚀
 
-![image](https://github.com/user-attachments/assets/d7b779c2-d2e6-4cea-9b7e-4dc0b6724c24)
-
+![image](https://github.com/user-attachments/assets/713b91f3-e7ce-41fc-b940-f77af0929122)
 
 **[Join Waitlist for Early Access](http://beta.prospectraai.com/)** 🎉
 
