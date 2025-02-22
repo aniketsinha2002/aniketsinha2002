@@ -34,11 +34,15 @@
 
 ## **BUILDING Prospectra AI** 🔎 
 
-[Prospectra AI](http://beta.prospectraai.com/) is your one-stop **AI-powered solution** for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**. 🚀
+[Prospectra AI](http://www.prospectraai.com/) is your one-stop **AI-powered solution** for real-time buzz analysis across **Twitter**, **LinkedIn**, and **Reddit**. 🚀
 
 ![image](https://github.com/user-attachments/assets/f6f4a7f1-8795-4159-9b85-5cf7d74fd408)
 
-**[Join Waitlist for Early Access](http://beta.prospectraai.com/)** 🎉
+---
+
+## **Showcasing My Work (📸 Work Snapshots)** 🚀
+
+![image](https://github.com/user-attachments/assets/ed06a482-42d2-44ee-8754-bf428e585e67)
 
 ---
 <!--   stats + languages -->
