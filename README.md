@@ -39,12 +39,6 @@
 ![image](https://github.com/user-attachments/assets/ae293d2c-97ae-42e8-b424-a578a482ae80)
 
 ---
-
-## **Showcasing My Work (📸 Work Snapshots)** 🚀
-
-![image](https://github.com/user-attachments/assets/ed06a482-42d2-44ee-8754-bf428e585e67)
-
----
 <!--   stats + languages -->
 ## ✨ STATS :
 
