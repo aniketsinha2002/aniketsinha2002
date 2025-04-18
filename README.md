@@ -12,7 +12,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketsinha2002" alt="visitors"/>   
 </p>
 
-🏠 I'm an **aspiring Product Engineer** - a passionate **Full Stack Dev** with expertise in crafting user-friendly UIs with a knack for turning ideas into impactful solutions. <br/> 🎨 I craft **Fast**, **Accessible**, and **Visually appealing** web apps for all screens. <br/> 🌱 Passionate about **building impactful products** & sharing knowledge through [blogs](https://aniketsinha.hashnode.dev/). <br/> 🚀 A big fan of **Open Source Softwares**, which is why almost everything I build is **Open Source**!
+🏠 I specialize in crafting user-friendly UIs transforming ideas into impactful digital solutions. <br/> 🎨 I focus on crafting **Fast**, **Accessible**, and **Visually appealing** web apps for all devices. <br/> 🌱 I'm Passionate about **building impactful products** & sharing insights through [blogs](https://aniketsinha.hashnode.dev/). <br/> 🚀 A big fan of **Open Source Softwares**, nearly all of my projects are open for contribution and exploration!
 
 ---
 
