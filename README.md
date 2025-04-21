@@ -12,7 +12,35 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketsinha2002" alt="visitors"/>   
 </p>
 
-🏠 I specialize in crafting user-friendly UIs transforming ideas into impactful digital solutions. <br/> 🎨 I focus on crafting **Fast**, **Accessible**, and **Visually appealing** web apps for all devices. <br/> 🌱 I'm Passionate about **building impactful products** & sharing insights through [blogs](https://aniketsinha.hashnode.dev/). <br/> 🚀 A big fan of **Open Source Softwares**, nearly all of my projects are open for contribution and exploration!
+🏠 I specialize in crafting **user-friendly UIs** transforming **ideas** into **impactful digital solutions**. <br/> 🎨 I focus on crafting **Fast**, **Accessible**, and **Visually appealing** web apps for all devices. <br/> 🌱 I'm Passionate about **building impactful products** & sharing insights through [blogs](https://aniketsinha.hashnode.dev/). <br/> 🚀 A big fan of **Open Source Softwares**, nearly all of my projects are open for contribution and exploration!
+
+
+---
+
+## ⭐ A LOOK at My WORK 
+
+### 🏢 Passion Projects 🏢
+
+- **Prospectra AI Platform** - [beta.prospectraai.com](http://beta.prospectraai.com/) | [prospectraai.com](https://prospectraai.com/)
+- **SubViz - (#19 on Product Hunt) - (Indie Hacking)** - [subviz.prospectraai.com](https://subviz.prospectraai.com/) | [subviz.netlify.app](https://subviz.netlify.app)
+  <br/> <br/>
+  <a href="https://www.producthunt.com/posts/subviz?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-subviz" target="_blank">
+      <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=814829&theme=light&t=1737740334387" 
+           alt="SubViz - Explore Reddit like a pro – with SubViz’s fun map! | Product Hunt" 
+           style="width: 250px; height: 54px;" width="250" height="54" />
+   </a>
+
+### 💼 Internship + Freelance Works 💼
+
+- **Leasify** - [leasify.com.au](http://leasify.com.au/)
+- **RunDoc | AdriTech (MRINJOLI INNOVATIONS)** - [rundoc.in](https://rundoc.in/)
+- **Custom Syntax Highlighter - CodeBlock Component** - [github.com/aniketsinha2002/codeblock](https://github.com/aniketsinha2002/codeblock)
+
+### 🚀 Personal/Exploratory Projects 🚀
+
+- **Writix AI Dashboard** - [writix-ai-dashboard.netlify.app](https://writix-ai-dashboard.netlify.app/)
+- **Netflix Clone** - [neftlix-plus.netlify.app](https://neftlix-plus.netlify.app/)
+- **Shoppie** - [shoppiev2.netlify.app](https://shoppiev2.netlify.app/)
 
 ---
 
@@ -121,29 +149,6 @@
 <img alt="Web Performance" src="https://img.shields.io/badge/web%20performance-%2300BFFF.svg?style=for-the-badge&logo=lighthouse&logoColor=white"/>
 
 </p>
-
----
-
-## 🚀 Recent Works
-
-1. http://beta.prospectraai.com/, https://prospectraai.com/
-2. https://subviz.prospectraai.com/
-3. http://leasify.com.au/
-4. https://writix-ai-dashboard.netlify.app/
-5. https://shoppiev2.netlify.app/
-
-## ⭐ Indie Hacking - Side Projects Launched
-
-1. [SubViz - on Product Hunt](https://subviz.prospectraai.com/)  
-   *(Optional link, in case the previous one doesn't work: [https://subviz.netlify.app](https://subviz.netlify.app))*  
-   <br />
-   <a href="https://www.producthunt.com/posts/subviz?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-subviz" target="_blank">
-      <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=814829&theme=light&t=1737740334387" 
-           alt="SubViz - Explore Reddit like a pro – with SubViz’s fun map! | Product Hunt" 
-           style="width: 250px; height: 54px;" width="250" height="54" />
-   </a>
-
-2. Comming Soon ...
 
 ---
 
