@@ -33,7 +33,7 @@
 ### 💼 Internship + Freelance Works 💼
 
 - **Leasify | Brisbane, Australia | Real Estate** - [leasify.com.au](http://leasify.com.au/)
-- **RunDoc - AdriTech (MRINJOLI INNOVATIONS) | Guwahati, Assam | Health Care** - [rundoc.in](https://rundoc.in/)
+- **RunDoc - AdriTech (MRINJOLI INNOVATIONS) | Tripura, Assam | Health Care** - [rundoc.in](https://rundoc.in/)
 - **Custom Syntax Highlighter - CodeBlock Component** - [github.com/aniketsinha2002/codeblock](https://github.com/aniketsinha2002/codeblock)
 
 ### 🚀 Personal/Exploratory Projects 🚀
